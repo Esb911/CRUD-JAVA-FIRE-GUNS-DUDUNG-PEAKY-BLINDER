@@ -13,3 +13,5 @@ Download CRUD-JAVA-FIRE-GUNS-DUDUNG-PEAKY-BLINDER and extract it or download wit
 Use projekv2 and open it, using netbeans or whatever you want
 
 Except folder projekv2, the other folder is database
+
+The lib folder is the librari of the JavaV2 project
