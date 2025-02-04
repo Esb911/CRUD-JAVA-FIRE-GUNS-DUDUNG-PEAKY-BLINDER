@@ -14,4 +14,4 @@ Use projekv2 and open it, using netbeans or whatever you want
 
 Except folder projekv2, the other folder is database
 
-The lib folder is the librari of the JavaV2 project
+The lib folder is the library of the JavaV2 project
