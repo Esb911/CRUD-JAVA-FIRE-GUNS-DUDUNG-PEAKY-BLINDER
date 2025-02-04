@@ -2,7 +2,7 @@ This is a Java CRUD project using Netbeans IDE 8.2 using the Xampp phpmyadmin da
 
 Use 2 Database :
 
-Database 1 : grosing
+Database 1 : grosir
 
 Database 2 : hp
 
