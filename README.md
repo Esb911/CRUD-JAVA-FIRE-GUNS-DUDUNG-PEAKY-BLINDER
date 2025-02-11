@@ -18,4 +18,4 @@ The lib folder is the library of the projekv2
 
 
 
-This project is licensed under GPL 3.0. Unauthorized copying, modification, or redistribution without proper attribution is prohibited. Legal action may be taken against violators.
+**This project is licensed under GPL 3.0. Unauthorized copying, modification, or redistribution without proper attribution is prohibited. Legal action may be taken against violators.**
